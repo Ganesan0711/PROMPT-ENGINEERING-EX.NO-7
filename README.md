@@ -1,8 +1,4 @@
-# Ex.No.7 – Development of a Prompt-Based Application Using Large Language Models
-
-## Date: 30-05-26
-## Register No: 212223080013
-
+# Ex.No.7 – Development of a Prompt-Based Application Using Large Language Model
 ---
 # Aim
 
